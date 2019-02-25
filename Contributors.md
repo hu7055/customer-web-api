@@ -1,4 +1,4 @@
 ## Contributors 
 
-- Adrian Maurer
+- Adriano Maurer
 - Betim Shahini
